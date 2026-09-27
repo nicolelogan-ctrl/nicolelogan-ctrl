@@ -10,4 +10,4 @@ servers.
 As for development, I've primarily worked with Java, PHP, and JavaScript. I also have experience with TypeScript,
 more specifically when in use with the React framework, and have worked with Laravel too. All of the technologies
 mentioned in this paragraph except for Java are used in the Pterodactyl project, more specifically the panel, and
-knowing them has allowed me to also contribute code to Reedroux/RHVC's fork of said project, the Apollo Panel.
+knowing them has allowed me to also contribute code to Reedroux Platforms LLC fork of said project, the Apollo Panel.
