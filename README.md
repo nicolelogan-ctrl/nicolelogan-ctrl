@@ -1,13 +1,4 @@
-### Nicole L
+### Nicole L.
+**Systems Administrator & DevOps Engineer at Reedroux Platforms LLC**
 
-Systems administrator by day... and also by night. I am part of the DevOps Team at Reedroux Platforms LLC , I help manage the
-infrastructure and actively participate in development work too.
-
-I have good knowledge of the Linux ecosystem, and have worked primarily with Ansible for automation, although I've
-also made my own shell scripts in certain scenarios where I had to run a (sometimes very) simple task across many
-servers.
-
-As for development, I've primarily worked with Java, PHP, and JavaScript. I also have experience with TypeScript,
-more specifically when in use with the React framework, and have worked with Laravel too. All of the technologies
-mentioned in this paragraph except for Java are used in the Pterodactyl project, more specifically the panel, and
-knowing them has allowed me to also contribute code to Reedroux Platforms LLC fork of said project, the Mail Servers Reedroux.
+Part of the DevOps Team at Reedroux Platforms LLC, specializing in Linux infrastructure, server administration, automation, and software development. Experienced with Ansible, Bash, PHP, JavaScript, TypeScript, and Laravel.
